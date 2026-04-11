@@ -14,7 +14,7 @@ description: A structured overview of my dissertation projects and their overarc
   
 This homepage ultimately serves as both indexing the various projects and attempting to string an overarching narrative between them.  
 
-Following the [[#Table of Contents]] is a section --- [[#Putting it all Together]] --- where I attempt to express a broad  (perhaps, *naive* ) view of how the projects I'm working on all hang together. Moreover, each of the sections detailing the papers/project contain some blurb regarding how I think the paper more specifically fits into the dissertation project.
+Following the [[#Table of Contents]] is a section --- [[#Putting it all Together]] --- where I attempt to express a broad (maybe even, *naive*) view of how the projects I'm working on all hang together. Moreover, each of the sections detailing the papers/project contain some blurb regarding how I think the paper more specifically fits into the dissertation project.
 
 
 **Notice!!!** The projects are ordered in a descending manner, with the highest on the list representing my most developed/polished work. E.g.,  I've finished and presented a version of the [paper](/static/pdf/Great_Ape_Questions_v3.pdf) appearing in [[#Great (Ape) Questions]], whereas projects towards the end ....TK
@@ -27,7 +27,7 @@ Following the [[#Table of Contents]] is a section --- [[#Putting it all Together
 - [[#Inquistive Icons]]
 	- [[#Glossary]]
 ## Putting it all Together
-The over-arching theme of this proposal can be grasped intuitively without much theoretical sophistication. So, I'll first express [[The Naive View|the view]] in the most compact way, then give it a more technical gloss.
+The over-arching theme of this proposal can be grasped without much theoretical sophistication. So, I'll first express [[The Naive View|the view]] in the most compact way, then give it a more technical gloss.
 ![[The Naive View]]
 
 Moving from the view expressed in the most compressed manner, here's the view more cautiously formulated along with all the technical details and relevant citations:
@@ -66,12 +66,14 @@ Valence is a foundational construct of
 Abstract + major argumentative moves  
   
 ## Meaning Without Triangulation  
-Abstract + major argumentative moves  
-  
+Abstract + major argumentative moves 
 ## Inquisitive Icons
 Abstract + major argumentative moves  
 
-****
+
+***
+
 ### Glossary
+
 - [[Curiosity]]
 - [[Drosophilia, a case study]]

@@ -1,12 +1,14 @@
-Here I introduce our current neuro-scientific understanding of how valence is encoded in brains of fruit flies and how they contribute towards the production of appetitive/aversive behaviors. By way of both motivating valence as representation and introducing readers more broadly, lets first start with a causal explanation of the neural mechanisms employed in valence processing--- in particular associative learning.
 
-Before that, a few reasons as to why we are focusing on fruit flies?
-- fruit flies qua invertebrates are phylogenetically ancient and give incite to affective mechanisms conserved
-- more importantly, they represent our some of our most comprehensive neuro-atomical understanding. like worms (elegans), much of our mapping of the fruit fly brain is near complete with having mapped out individual neurons and their connections.
+Here I introduce our current neuroscientific understanding of how valence is encoded in the brains of fruit flies (_Drosophila melanogaster_) and how this contributes to the production of appetitive and aversive behavior. By way of both motivating the idea that valence is representational and introducing the broader literature, I begin with a purely causal description of the neural mechanisms underlying valence processing in associative learning.
 
+But before this, why fruit flies?
+- Fruit flies are a model organism in neuroscience. While there are many pragmatic/experimental reasons in favor, the most important for our purposes is that their small size has allows for comprehensive understanding of their neuroanatomy. Specifically, [we have complete mappings of neural connectivity at the level of individual neurons.](https://doi.org/10.1038/s41586-024-07686-5)
+	- The circuits to be discusses, i.e., the *mushroom body*, is of the most extensively study, where we near not just a full "wiring-diagram" but also a near complete functional understanding.
+- Moreover, relative to other organisms of which we have a similar neuro-anatomical understandings of(e.g., nematodes), fruit flies exhibit more complex behaviors, including mating, learning, and decision-making.
+- Finally, as an invertebrate species, fruit flies provide a window into evolutionarily ancient and conserved mechanisms.
 ## The Causal Story:
 
-Proceeds from
+Mushroom body
 
 ![[Pasted image 20260407195054.png]]
 Zooming out to the ensemble level,
