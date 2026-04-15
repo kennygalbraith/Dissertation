@@ -47,5 +47,5 @@ However, the falsity of *Semantic Reductionism* need not ban all forms of reduct
 **Primitive Content**
 >The semantic entities and their canonical function derive from a more general unstructured, undifferentiated representation and its functions
 
-It is often viewed in teleosemantics and game-theoretic models that the semantic representations of interrogatives, imperatives, and declaratives (and their functions) stem from more primitive representations.  Thus, the more specific representations emerge through differentiation from this amorphous content. Consequently, investigating the explanatory fruit of such a claim is another theme of the project.
+It is often viewed in teleosemantics and game-theoretic inspired models that the semantic representations of interrogatives, imperatives, and declaratives (and their functions) stem from more primitive representations.  In particular, the more specific representations emerge through differentiation from a more general notion of content content. Consequently, investigating the explanatory fruit of such a claim is another theme of the project.
 

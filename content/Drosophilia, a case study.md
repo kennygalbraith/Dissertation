@@ -8,7 +8,18 @@ But before this, why fruit flies?
 - Finally, as an invertebrate species, fruit flies provide a window into evolutionarily ancient and conserved mechanisms.
 ## The Causal Story:
 
-Mushroom body
+Before arguing for the representational nature of valence processing, best that we first start of with the bare causal facts. That is, mapping out the casual relations relations within the internal mechanisms employed in associative learning. From here, we can start introducing talk of *functions* where the explanatory advantages of appealing to valence as a form of representation show.
+
+Now, the major neural-circuits extensively studied in associative learning in fruit-flies is the *Mushroom Body*.  Yet, describing the causal interactions required for the production of learn behaviors requires us to little about the mechanisms upstream of this and those that are downstream. Given this, I plot out the interactions as they mapp out from distal stimli to the production of specific behaviors.
+
+So, starting with the upstream mechanisms, the mushroom body is connected to a variety of sensory mechanisms, visual, gustatory, and olfactory. Though, the most extensively studied pathy way is through mechanisms of olfaction. Here, fruit flies have an anntenal lobe responsible for dectecting odors in the eniviroment. Within the lobe, there are a variety of receptors that excite actibty in neurons that project to the Mushroom Body.
+
+
+Within the Mushroom Bodies
+
+
+
+
 
 ![[Pasted image 20260407195054.png]]
 Zooming out to the ensemble level,
