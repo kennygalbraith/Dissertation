@@ -64,9 +64,6 @@ Valence is a foundational construct of
 - Give auxillary points
 ## Against Purely Simulatory Communication
 Abstract + major argumentative moves  
-  
-## Meaning Without Triangulation  
-Abstract + major argumentative moves 
 ## Inquisitive Icons
 Abstract + major argumentative moves  
 
