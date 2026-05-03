@@ -1,4 +1,4 @@
-
+(WIP) 
 Here I introduce our current neuroscientific understanding of how valence is encoded in the brains of fruit flies (_Drosophila melanogaster_) and how this contributes to the production of appetitive and aversive behavior. By way of both motivating the idea that valence is representational and introducing the broader literature, I begin with a purely causal description of the neural mechanisms underlying valence processing in associative learning.
 
 But before this, why fruit flies?
@@ -12,10 +12,8 @@ Before arguing for the representational nature of valence processing, best that 
 
 Now, the major neural-circuits extensively studied in associative learning in fruit-flies is the *Mushroom Body*.  Yet, describing the causal interactions required for the production of learn behaviors requires us to little about the mechanisms upstream of this and those that are downstream. Given this, I plot out the interactions as they mapp out from distal stimli to the production of specific behaviors.
 
-So, starting with the upstream mechanisms, the mushroom body is connected to a variety of sensory mechanisms, visual, gustatory, and olfactory. Though, the most extensively studied pathy way is through mechanisms of olfaction. Here, fruit flies have an anntenal lobe responsible for dectecting odors in the eniviroment. Within the lobe, there are a variety of receptors that excite actibty in neurons that project to the Mushroom Body.
+So, starting with the upstream mechanisms, the mushroom body is connected to a variety of sensory mechanisms, visual, gustatory, and olfactory. Though, the most extensively studied path way is through mechanisms of olfaction. Here, fruit flies have an antennal lobe responsible for detecting odors in the environment. Within the lobe, there are a variety of receptors that excite actibty in neurons that project to the Mushroom Body.
 
-
-Within the Mushroom Bodies
 
 
 
@@ -33,9 +31,18 @@ Innate
 
 Valence is not a single feature you can attribute, to any specific mechanism, rather patterns found in the activation 
 
-The neuronal circuits that are downstream of the MBONs and that might read the ensemble of MBON activity remain to be discovered.
+
 
 
 Convergence zones
 
 https://elifesciences.org/articles/04580#s4
+
+## Directive Content of Good/Bad
+
+- Having directive content is matter of serving a *directive function*:
+	-  A directive function $F$ is one that functions to produce/motivate *particular behavior*, $\varphi$
+		- See Butlin (2022)
+	- Another way to put it is that, having a (directive) function $F(x)$  to produce a particular behavior  (i.e., $F(x) \rightarrow \varphi$) constitutes function $F$ as having *satisfaction conditions*
+	- Namely, *satisfaction conditions* --- to $\varphi$
+	- 

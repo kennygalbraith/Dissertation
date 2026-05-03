@@ -1,0 +1,19 @@
+**Abstract**  
+Much of the debates surrounding Simulation Theory (ST) versus Theory-Theory (TT) chiefly focuses on our capacities to attribute mental state (e.g., beliefs, desires, intentions) to other agents --- namely, Mindreading. Despite this, it is widely recognized that both ST and TT are characterize the operations of cognitive mechanisms independent of them being mechanisms for mind-reading or socio-cognitive mechanisms more generally. Consequently, there are gaps in our theorzing about ST/TT with respect to a variety of phonemena. This paper focus on the socio-cognitive mechanisms required for _communication_.
+
+Though Mindreading might play an important role in our ability to communicate, future developements have highlighted the lesser role of mind-reading in communication. Furthermore, theorizing about communication from the perspectives of non-human speicies highlights the facts that communication needn't require mindreading mechanism. Consequently, this paper aims to address the debates surrounding TT and ST from the perceptive of communication.
+
+Ultimately, I argue against the possibility of purely simulatory communication. First, I introduce new light to characterize the distinction between ST and TT, by focusing the the ways relecant mechanisms semantic encode information. Second, I aruge that that there is a deep tension between our standard requirements of communciation and ST. I argue that there are conceptual or philosophical issues pointing against ST theories of communication. Third, I demonstrate that these issues crop up in more emprical setting: that is, I demonstrate that these tensions make problems of more empricisal developed acccounts of ST. In particular, I demonstrate that ST versions of great-ape communication beset issues because of the tensions outlined in the previous section.
+
+**Major Arguments/Upshots**
+
+- *Question*: what best characterizes the distinction between TT and ST?
+- *Answer*: the format of semantically encoded information
+    - There has been much conceptual work in light of the TT and ST distinctions. Though there might be precise account of say, ST, that delineate certain mechanisms as being simulationist at heart versus theory-like, there has been less work on identifying features that crucially dileneate ST from TT and vice versa.
+    - In light of this lacuna, I propose that crucial difference between lies at the level of describing the specific computations: in particular, how , or _the manner_, in which the mechanisms in question semantic encode information relevant for their functions.
+    - Ultimately, I claim that ST mechanisms crucially operate in virtue of _iconically formated representations_, whereas TT rely on rely _symbolic_ structures to encode information.
+    - To note, the difference in format might explain, say, aspect that are foundational of any version of ST. It itself doesn't characterize ST fully.
+        - In otherwords, mechanisms that iconically encode information don't make them ST outright. Rather, what I'm proposing here is that crucial difference between ST and TT is to be found along the ways in which they semantically format representations.
+        - While I won't proclaim to provide a precise account of the iconic/symbolic distinction, I hoope to piggyback off the distinct --- showing that ways that they are distinguished in extant literature help give us a grip on the distinction
+        - **Upshot**  
+            Given the difference between TT and ST, in the encoding of semantic information, I argue these differences lend to more generally differences in the performance of behaciors --- namely, signature limits.
