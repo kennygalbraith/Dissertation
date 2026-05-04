@@ -1,19 +1,34 @@
 **Abstract**  
-Much of the debates surrounding Simulation Theory (ST) versus Theory-Theory (TT) chiefly focuses on our capacities to attribute mental state (e.g., beliefs, desires, intentions) to other agents --- namely, Mindreading. Despite this, it is widely recognized that both ST and TT are characterize the operations of cognitive mechanisms independent of them being mechanisms for mind-reading or socio-cognitive mechanisms more generally. Consequently, there are gaps in our theorzing about ST/TT with respect to a variety of phonemena. This paper focus on the socio-cognitive mechanisms required for _communication_.
+Much of the debates surrounding Simulation Theory (ST) versus Theory-Theory (TT) chiefly focuses on our capacities to attribute mental state (e.g., beliefs, desires, intentions) to other agents --- namely, Mindreading. Despite this, it is widely recognized that both ST and TT are characterize the operations of cognitive mechanisms more generally, independent of mind-reading. Consequently, there remains significant gaps in our theorizing about how ST/TT apply to many other cognitive domains.  This paper focus on the socio-cognitive mechanisms required for _communication_.
 
-Though Mindreading might play an important role in our ability to communicate, future developements have highlighted the lesser role of mind-reading in communication. Furthermore, theorizing about communication from the perspectives of non-human speicies highlights the facts that communication needn't require mindreading mechanism. Consequently, this paper aims to address the debates surrounding TT and ST from the perceptive of communication.
+Though our ability to mindreading contributes to human communication, more and more recent developments suggest its role is more limited than traditionally assumed. Furthermore, evidence from non-human species suggests that sophisticated communication can take place in absence of sophisticated mindreading capabilities. Taken together, these reasons motivate a re-evaluation of the ST-TT debate from the sole perspective of communication (regardless of mindreading).
 
-Ultimately, I argue against the possibility of purely simulatory communication. First, I introduce new light to characterize the distinction between ST and TT, by focusing the the ways relecant mechanisms semantic encode information. Second, I aruge that that there is a deep tension between our standard requirements of communciation and ST. I argue that there are conceptual or philosophical issues pointing against ST theories of communication. Third, I demonstrate that these issues crop up in more emprical setting: that is, I demonstrate that these tensions make problems of more empricisal developed acccounts of ST. In particular, I demonstrate that ST versions of great-ape communication beset issues because of the tensions outlined in the previous section.
+To this end, I argue against the possibility of purely simulatory communication. First, I introduce a new way to characterize the distinction between ST and TT, by focusing on how their underlying mechanisms semantically encode information. Second, I argue that that there is a deep tension between our standard requirements of communication and ST. More precisely, I argue that there are conceptual/philosophical issues pointing against pure ST theories of communication. Third, I demonstrate that these issues crop up in more empirical settings: that is, I demonstrate that these tensions make problems for more empirical developed accounts of ST. In particular, I demonstrate that ST-based accounts of great ape communication face systematic difficulties in light of these tensions
 
 **Major Arguments/Upshots**
+- *Question*: What best characterizes the distinction between TT and ST?  
+- *Answer*: The format of semantically encoded information  
+	- There has been substantial conceptual work on the distinction between TT and ST. While there may be more precise accounts of ST that delineate certain mechanisms as simulationist *simpliciter*, there has been comparatively less work on identifying the features that crucially distinguish ST from TT (and vice versa).
+	- In light of this lacuna, I propose that the crucial difference lies at the level of computational description --- specifically, in how, or *the manner in which*, the relevant mechanisms semantically encode information.
+-  I argue that ST mechanisms operate in virtue of *iconically formatted representations*, whereas TT mechanisms rely on *symbolic structures* to encode information.
+- Importantly, the difference in representational format does not by itself fully characterize ST.  
+  - In other words, the mere use of iconic representations is not sufficient for a mechanism to count as simulationist.  
+  - Rather, the proposal is that a central distinction between ST and TT is found in how their mechanisms semantically format representations.  
+  - While I do not aim to provide a fully precise account of the iconic/symbolic distinction, I draw on existing accounts in the literature to clarify how this contrast can illuminate the ST–TT divide.
 
-- *Question*: what best characterizes the distinction between TT and ST?
-- *Answer*: the format of semantically encoded information
-    - There has been much conceptual work in light of the TT and ST distinctions. Though there might be precise account of say, ST, that delineate certain mechanisms as being simulationist at heart versus theory-like, there has been less work on identifying features that crucially dileneate ST from TT and vice versa.
-    - In light of this lacuna, I propose that crucial difference between lies at the level of describing the specific computations: in particular, how , or _the manner_, in which the mechanisms in question semantic encode information relevant for their functions.
-    - Ultimately, I claim that ST mechanisms crucially operate in virtue of _iconically formated representations_, whereas TT rely on rely _symbolic_ structures to encode information.
-    - To note, the difference in format might explain, say, aspect that are foundational of any version of ST. It itself doesn't characterize ST fully.
-        - In otherwords, mechanisms that iconically encode information don't make them ST outright. Rather, what I'm proposing here is that crucial difference between ST and TT is to be found along the ways in which they semantically format representations.
-        - While I won't proclaim to provide a precise account of the iconic/symbolic distinction, I hoope to piggyback off the distinct --- showing that ways that they are distinguished in extant literature help give us a grip on the distinction
-        - **Upshot**  
-            Given the difference between TT and ST, in the encoding of semantic information, I argue these differences lend to more generally differences in the performance of behaciors --- namely, signature limits.
+**Argument**: I argue that there is a conceptual tension between ST and communication: the fact that communication is constrained by *public information* is at odds with ST.
+- *Publicity* is often viewed as an epistemic constraint on communication, and in particular on communicative acts: it concerns the conditions under which meanings are justified and stabilized for the purposes of coordination.  
+	- On the *Common Attitude View*, for instance, the publicity constraint manifests as iterated attitudes over shared or mutual content: that S believes that H believes that P, and that H believes that S believes that P, and so on *ad infinitum*.  
+	- The thought here is that this iterative structure supports forms of reasoning (or, in other words, justifies inferences) relevant to coordinating on the content P.  
+  
+- That said, for present purposes, I focus on the socio-cognitive mechanisms that make *public acts of communication possible*.  
+- Ultimately, I argue that the publicity constraint often manifests as a requirement for communicative capacities that support *inter-agential coordination on states of the world*.  
+- However, as I argue, it is impossible to move from mechanisms that operate on (iconic), *private*, and *perspectival* representations to genuinely shared representations that facilitate coordination and joint action. Some symbolic element is always required.
+
+**Empirical Upshots**:  Having argued against the possibility of purely simulatory communication, I show that this underlying tension surfaces in empirical theorizing about great ape communication. 
+
+- More specifically, I develop a purely simulatory theory of great ape communication (motivated in part by Graham, K. E., Rossano, F., and Moore, R. T. (2025)), according to which apes communicate by coordinating gestural meaning via mechanisms involving shared iconic representations of their actions—i.e., action schemas.  
+
+- I argue that, when construed as a purely simulationist model of communication, this account faces what I call the *Too Many Inferences Objection*.  
+	- In light of this objection, I diagnose the problem as stemming from a purely simulationist framework, and argue that introducing mechanisms for representing meanings symbolically resolves the issue.  
+	- Ultimately, while arguing against a purely simulationist account of communication, I show that the resulting *hybrid account* also has advantages over purely symbolic (i.e., TT) accounts.
