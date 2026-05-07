@@ -14,10 +14,10 @@ description: A structured overview of my dissertation projects and their overarc
   
 This homepage ultimately serves as both indexing the various projects and attempting to string an overarching narrative between them.  
 
-Following the [[#Table of Contents]] is a section --- [[#Putting it all Together]] --- where I attempt to express a broad (maybe even, *naive*) view of how the projects I'm working on all hang together. Moreover, each of the sections detailing the papers/project include some how I think the paper ties into the larger project.
+Following the [[#Table of Contents]] is a section --- [[#Putting it all Together]] --- where I attempt to express a broad (maybe even, *naive*) view of how the projects I'm working on all hang together. Moreover, each of the sections detailing the papers/project include some way I think the paper ties into the larger project.
 
 
-**Notice!!!** The projects are ordered in a descending manner, with the highest on the list representing my most developed/polished work. That is,  I've finished and presented a version of the [paper](/static/pdf/Great_Ape_Questions_v3.pdf) appearing in [[#Great (Ape) Questions]] and I'm near a complete draft for [[Valence as Primordial Directive Content]]. However, much of the writing presented here for [[Inquisitive Icons]]  and [[Against Purely Simulatory Communication]] represents my most recent thinking and remains relatively exploratory.
+**Notice!!!** The projects are ordered in a descending manner, with the highest on the list representing my most developed/polished work. That is,  I've finished and presented a version of the [paper](/static/pdf/Great_Ape_Questions_v3.pdf) appearing in [[#Great (Ape) Questions]] and I'm near a complete draft for [[Valence as Primordial Directive Content]]. However, much of the writing presented here for [[Inquisitive Icons]]  and [[Against Purely Simulatory Communication]] represents my most recent thinking which remains relatively exploratory.
 # Table of Contents  
 - [[#Putting it all Together]]
 -  [[#Great (Ape) Questions]]
@@ -37,7 +37,7 @@ Moving from the view expressed in the most compressed manner, here's the view mo
 **Abstract**:
 Various lines of evidence suggest that non-human great apes are incapable of asking questions. From this, one might claim that the communicative function of question- asking is among the various features that make human communication unique. However, such uniqueness claims mystify the origins of our communicative practices, both obscuring the development of these practices along with their underlying functions.
 
-Thus, in this paper I challenge the claim that great apes lack the ability to ask questions by identifying a novel account of question-asking compatible with their known communicative abilities. On this account, question-asking, minimally speaking, is the communicative manifestation of a species’ innate capacity for [[Curiosity]]. Ultimately, whether question-asking is present within great ape communicative repertoire remains an open empirical question, yet theorizing about such minimal forms offers insight towards the evolution and foundations of communicative acts.
+Thus, in this paper I challenge the claim that great apes lack the ability to ask questions by identifying a novel account of question-asking compatible with their known communicative abilities. On this account, question-asking, minimally speaking, is the communicative manifestation of a species’ innate capacity for [[Curiosity]]. Ultimately, whether question-asking is present within great ape communicative repertoires remains an open empirical question, yet theorizing about such minimal forms offers insight towards the evolution and foundations of communicative acts.
 
 **Major Argumentative Moves/Upshots**
 - *Question*: How would question-asking emerge in the communicative systems of non-linguistic organisms?
@@ -56,7 +56,7 @@ Thus, in this paper I challenge the claim that great apes lack the ability to as
 **Abstract**:
 The concept of *valence* is central to the affective sciences. It is often theorized as a basic component from which emotional states and other affective mechanisms are constituted. However, the sub-fields that make up the affective sciences frequently employ importantly differing notions of valence. This paper focuses on the role that valence plays in neuroscientific explanations. Unlike psychological approaches, valence in this distinct sense is not a feature of emotional experience, but rather a feature of neural mechanisms and their processing.
 
-In this paper, I argue that valence, as conceived in neuroscience, functions as a primordial directive: a content-general representation of *good* and *bad*, whose content is derivable from its role in producing appetitive and aversive behavior. Drawing on our recent understanding of the neuro-anatomy from of fruit flies ([[Drosophilia, a case study]]), I show that the role valence plays in action and learning lends to the it being a genuinely directive form of representation. Finally, I consider broader philosophical conclusions about whether valence should be understood as primitive in two distinct senses: (i) as evolutionarily early-emerging, and (ii) as conceptually primitive, in that it does not depend on antecedent evaluative notions.
+In this paper, I argue that valence, as conceived in neuroscience, functions as a primordial directive: a content-general representation of *good* and *bad*, whose content is derivable from its role in producing appetitive and aversive behavior. Drawing on our recent understanding of the neuro-anatomy from of fruit flies ([[Drosophilia, a case study]]), I show that the role valence plays in action and learning lends to it being a genuinely directive form of representation. Finally, I consider broader philosophical conclusions about whether valence should be understood as primitive in two distinct senses: (i) as evolutionarily early-emerging, and (ii) as conceptually primitive, in that it does not depend on antecedent evaluative notions.
 
 **Major Argumentative Moves/Upshots**
 
@@ -90,8 +90,8 @@ In this paper, I argue that valence, as conceived in neuroscience, functions as 
             1. As mentioned earlier, valence contributes to the learned behaviors of an organism. In this sense, maladaptive behaviors can be acquired through malfunction—for example, encoding a positive signal for novel stimuli that would otherwise have been hardwired as bad.  
  **Upshots**
 - Though the notion of valence as a form of representation may lead some to balk at the idea that it is a genuine representation, understanding these mechanisms at the level of neuroscience is important for a full theory of valence.  
-- That is, although valence as employed in this paper is not a distinctively psychological sense of representation, understanding valence at this level (regardless of whether one counts it as representational) is necessary for understanding valence representation in psychology.  
-- Lastly, I explore whether valence could be conceptually primitive, in that it does not rely on other antecedent evaluative or directive concepts.  
+- That is, although valence as employed in this paper is not a distinctively psychological sense of representation, understanding valence at this level (regardless of whether one counts it as representational) is necessary for understanding valenced representations in psychology.  
+- Lastly, I explore whether valence could be conceptually primitive, in that it does not rely on other antecedent evaluative or directive representations.  
 - I also explore the possibility that this sense of valence could support *desire-first* views of representation.  
 
 ## Inquisitive Icons
@@ -100,7 +100,7 @@ This paper challenges the standard view that questions cannot be represented in 
 
 This paper, however, argues that this assumption is mistaken. By turning to iconic systems in the mind --- namely perception --- I argue that their are strong reasons for thinking that inquisitive are iconicly represented. In particular, a core assumption underlying theorizing about perceptual processing is that these processes are best characterized as a form of inquiry --- .e.g, addressing questions like _Is that X or Y_. By turning to models of perception, I claim we gain insight into how inquisitive content may be represented iconicly.
 
-Ultimately, I argue that the distinction between inquisitive icons and symbolic representations hinges on how _uncertainty or ignorance_ is represented. Whereas, in symbolic systems, uncertainty is represented as discrete alternatives, iconic systems represent uncertainty in a graded and holistic manner, often exploiting mechanisms that carry information over time.
+Ultimately, I argue that the distinction between inquisitive icons and symbolic representations hinges on how _uncertainty or ignorance_ is represented. Whereas, in symbolic systems, uncertainty is represented as discrete alternatives, iconic systems represent uncertainty in a graded and holistic manner, often exploiting mechanisms that carry information about time.
 
 Having developed an account of inquisitive content in perception, I argue that a central payoff of this account is its ability to make sense of a variety of inquisitive icons in _communication_. That is, there are a variety of inquisitive that pervade iconic communication, yet, pace the standard view, have gone unappreciated. By identifying inquisitive icons in perception, the account is able to vindicate these intuitive communicative instances, while providing a more principled account. In the end, the resulting account maintains important tenets from the standard semantics of questions while rejecting the assumptions about their format. Thus, it expands the scope of theorizing about inquisitive content beyond language and symbolic formats.
 

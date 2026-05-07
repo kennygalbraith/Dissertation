@@ -13,13 +13,13 @@ From recent developments in modeling Communicative/Speech Acts in philosophy of 
 	- Friedman (2013), Whitcomb(xx)
 	- However, the psychological realism only extends to explaining patterns found in language: how clause-types pattern (admit embeddings of various attitude-verbs).
 	
-- Natural Kinds and A Vow in Teleosemantics
+- Natural Kinds and  Teleosemantics
 	- Natural kinds as homeo-static property clusters
 	- Generalize Inductions
 	- Mechanisms
 	- A Wide Diversity: formats and internal structure
 - Diverging from Millikan
-	- Being more neutral whem possible
+	- Being more neutral when possible
 	- Selective Mechanisms
 	- Rationality and Intentionalism
 	- 
